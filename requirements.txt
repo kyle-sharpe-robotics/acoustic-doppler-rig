@@ -1,0 +1,6 @@
+# Raspberry Pi 5 only: spidev and lgpio require Pi hardware and SPI enabled
+numpy
+scipy
+matplotlib
+spidev
+lgpio
